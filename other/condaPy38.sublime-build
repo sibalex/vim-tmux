@@ -1,0 +1,5 @@
+{
+ "cmd": ["/opt/anaconda3/envs/py38/bin/python3", "-u", "$file"],
+ "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+ "selector": "source.python"
+}
